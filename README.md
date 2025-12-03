@@ -9,10 +9,10 @@ This repository contains all code and assets for applying the AI Development Wor
 AI-Development-Workflow-Project/
 ├── data/
 
-
-
 │ └── synthetic_patient_data.csv
+
 ├── notebooks/
+
 │ └── AI_Workflow_Project.ipynb
 ├── src/
 │ ├── data_preprocessing.py
