@@ -30,3 +30,24 @@ AI-Development-Workflow-Project/
 │ └── workflow_diagram.txt
 
 └── README.md
+
+---
+
+## 📘 Description  
+This project demonstrates the full AI workflow:
+
+1. Problem Definition  
+2. Data Collection  
+3. Data Preprocessing  
+4. Model Training  
+5. Evaluation  
+6. Deployment Demo  
+7. Monitoring & Workflow Diagram  
+
+The dataset is synthetic for demonstration purposes.
+
+---
+
+## ⚙️ How to Run
+
+### 1. Install dependencies:
