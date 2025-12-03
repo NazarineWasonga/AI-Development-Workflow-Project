@@ -51,3 +51,45 @@ The dataset is synthetic for demonstration purposes.
 ## ⚙️ How to Run
 
 ### 1. Install dependencies:
+
+pip install pandas scikit-learn joblib fastapi uvicorn
+
+
+### 2. Run preprocessing + training:
+
+python src/model_training.py
+
+
+### 3. Evaluate model:
+
+python src/evaluation.py
+
+
+### 4. Run demo API:
+
+uvicorn src.deployment_demo:app --reload
+
+
+---
+
+## 🧪 Model Used
+**Random Forest Classifier**
+
+---
+
+## 📄 Dataset
+Located at `data/synthetic_patient_data.csv`.
+
+---
+
+## 📊 Diagram
+Workflow diagram located under `diagrams/workflow_diagram.txt`.
+
+---
+
+
+
+
+
+
+
