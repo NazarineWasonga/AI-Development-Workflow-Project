@@ -14,11 +14,19 @@ AI-Development-Workflow-Project/
 ├── notebooks/
 
 │ └── AI_Workflow_Project.ipynb
+
 ├── src/
+
 │ ├── data_preprocessing.py
+
 │ ├── model_training.py
+
 │ ├── evaluation.py
+
 │ └── deployment_demo.py
+
 ├── diagrams/
+
 │ └── workflow_diagram.txt
+
 └── README.md
